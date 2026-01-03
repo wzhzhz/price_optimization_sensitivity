@@ -95,7 +95,7 @@ The application will open automatically in your browser.
 
 
 ## 7. Notes
-The Streamlit application assumes that model.pkl is located in the same directory as Streamlit.py.
+The Streamlit application assumes that model.pkl is located in the same directory as streamlit.py.
 If the model file is moved to a different folder, the loading path in the Streamlit script must be updated accordingly.
 
 
