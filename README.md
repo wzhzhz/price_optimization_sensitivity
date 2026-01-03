@@ -7,7 +7,7 @@ The objective of this project is to predict whether a customer will continue pur
 
 The model is designed to support revenue and pricing teams at travel or e-commerce platforms (e.g. flight booking websites) by helping them understand customer price sensitivity at an individual level.
 
-This project demonstrates an end-to-end analytics workflow, including:
+This project demonstrates an analytics workflow, including:
 - Synthetic customer data generation
 - Model training using logistic regression
 - Probability-based customer continuation prediction
